@@ -21,6 +21,8 @@
     NSLog(@"github");
     
     NSLog(@"dev");
+    
+    NSLog(@"feat");
 
 }
 
